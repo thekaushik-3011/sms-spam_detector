@@ -119,99 +119,99 @@ To ensure proper functionality of the spam detector, make sure the following Pyt
 - **smart-open:** 6.4.0
 - **sniffio:** 1.3.1
 - **snowballstemmer:** 2.2.0
+- **sortedcontainers:** 2.4.0
+- **soundfile:** 0.12.1
+- **soupsieve:** 2.5
+- **soxr:** 0.3.7
+- **spacy:** 3.7.4
+- **spacy-legacy:** 3.0.12
+- **spacy-loggers:** 1.0.5
+- **Sphinx:** 5.0.2
+- **sphinxcontrib-applehelp:** 1.0.8
+- **sphinxcontrib-devhelp:** 1.0.6
+- **sphinxcontrib-htmlhelp:** 2.0.5
+- **sphinxcontrib-jsmath:** 1.0.1
+- **sphinxcontrib-qthelp:** 1.0.7
+- **sphinxcontrib-serializinghtml:** 1.1.10
+- **SQLAlchemy:** 2.0.28
+- **sqlglot:** 20.11.0
+- **sqlparse:** 0.4.4
+- **srsly:** 2.4.8
+- **stanio:** 0.3.0
+- **statsmodels:** 0.14.1
+- **sympy:** 1.12
+- **tables:** 3.8.0
+- **tabulate:** 0.9.0
+- **tbb:** 2021.11.0
+- **tblib:** 3.0.0
+- **tenacity:** 8.2.3
+- **tensorboard:** 2.15.2
+- **tensorboard-data-server:** 0.7.2
+- **tensorflow:** 2.15.0
+- **tensorflow-datasets:** 4.9.4
+- **tensorflow-estimator:** 2.15.0
+- **tensorflow-gcs-config:** 2.15.0
+- **tensorflow-hub:** 0.16.1
+- **tensorflow-io-gcs-filesystem:** 0.36.0
+- **tensorflow-metadata:** 1.14.0
+- **tensorflow-probability:** 0.23.0
+- **tensorstore:** 0.1.45
+- **termcolor:** 2.4.0
+- **terminado:** 0.18.0
+- **text-unidecode:** 1.3
+- **textblob:** 0.17.1
+- **tf_keras:** 2.15.1
+- **tf-slim:** 1.1.0
+- **thinc:** 8.2.3
+- **threadpoolctl:** 3.3.0
+- **tifffile:** 2024.2.12
+- **tinycss2:** 1.2.1
+- **tokenizers:** 0.15.2
+- **toml:** 0.10.2
+- **tomli:** 2.0.1
+- **toolz:** 0.12.1
+- **torch:** 2.2.1+cu121
+- **torchaudio:** 2.2.1+cu121
+- **torchdata:** 0.7.1
+- **torchsummary:** 1.5.1
+- **torchtext:** 0.17.1
+- **torchvision:** 0.17.1+cu121
+- **tornado:** 6.3.3
+- **tqdm:** 4.66.2
+- **traitlets:** 5.7.1
+- **traittypes:** 0.2.1
+- **transformers:** 4.38.2
+- **triton:** 2.2.0
+- **tweepy:** 4.14.0
+- **typer:** 0.9.0
+- **types-pytz:** 2024.1.0.20240203
+- **types-setuptools:** 69.1.0.20240310
+- **typing_extensions:** 4.10.0
+- **tzlocal:** 5.2
+- **uc-micro-py:** 1.0.3
+- **uritemplate:** 4.1.1
+- **urllib3:** 2.0.7
+- **vega-datasets:** 0.9.0
+- **wadllib:** 1.3.6
+- **wasabi:** 1.1.2
+- **wcwidth:** 0.2.13
+- **weasel:** 0.3.4
+- **webcolors:** 1.13
+- **webencodings:** 0.5.1
+- **websocket-client:** 1.7.0
+- **Werkzeug:** 3.0.1
+- **wheel:** 0.43.0
+- **widgetsnbextension:** 3.6.6
+- **wordcloud:** 1.9.3
+- **wrapt:** 1.14.1
+- **xarray:** 2023.7.0
+- **xarray-einstats:** 0.7.0
+- **xgboost:** 2.0.3
+- **xlrd:** 2.0.1
+- **xyzservices:** 2023.10.1
+- **yarl:** 1.9.4
+- **yellowbrick:** 1.5
+- **yfinance:** 0.2.37
+- **zict:** 3.0.0
+- **zipp:** 3.17.0
 
-sortedcontainers                 2.4.0
-soundfile                        0.12.1
-soupsieve                        2.5
-soxr                             0.3.7
-spacy                            3.7.4
-spacy-legacy                     3.0.12
-spacy-loggers                    1.0.5
-Sphinx                           5.0.2
-sphinxcontrib-applehelp          1.0.8
-sphinxcontrib-devhelp            1.0.6
-sphinxcontrib-htmlhelp           2.0.5
-sphinxcontrib-jsmath             1.0.1
-sphinxcontrib-qthelp             1.0.7
-sphinxcontrib-serializinghtml    1.1.10
-SQLAlchemy                       2.0.28
-sqlglot                          20.11.0
-sqlparse                         0.4.4
-srsly                            2.4.8
-stanio                           0.3.0
-statsmodels                      0.14.1
-sympy                            1.12
-tables                           3.8.0
-tabulate                         0.9.0
-tbb                              2021.11.0
-tblib                            3.0.0
-tenacity                         8.2.3
-tensorboard                      2.15.2
-tensorboard-data-server          0.7.2
-tensorflow                       2.15.0
-tensorflow-datasets              4.9.4
-tensorflow-estimator             2.15.0
-tensorflow-gcs-config            2.15.0
-tensorflow-hub                   0.16.1
-tensorflow-io-gcs-filesystem     0.36.0
-tensorflow-metadata              1.14.0
-tensorflow-probability           0.23.0
-tensorstore                      0.1.45
-termcolor                        2.4.0
-terminado                        0.18.0
-text-unidecode                   1.3
-textblob                         0.17.1
-tf_keras                         2.15.1
-tf-slim                          1.1.0
-thinc                            8.2.3
-threadpoolctl                    3.3.0
-tifffile                         2024.2.12
-tinycss2                         1.2.1
-tokenizers                       0.15.2
-toml                             0.10.2
-tomli                            2.0.1
-toolz                            0.12.1
-torch                            2.2.1+cu121
-torchaudio                       2.2.1+cu121
-torchdata                        0.7.1
-torchsummary                     1.5.1
-torchtext                        0.17.1
-torchvision                      0.17.1+cu121
-tornado                          6.3.3
-tqdm                             4.66.2
-traitlets                        5.7.1
-traittypes                       0.2.1
-transformers                     4.38.2
-triton                           2.2.0
-tweepy                           4.14.0
-typer                            0.9.0
-types-pytz                       2024.1.0.20240203
-types-setuptools                 69.1.0.20240310
-typing_extensions                4.10.0
-tzlocal                          5.2
-uc-micro-py                      1.0.3
-uritemplate                      4.1.1
-urllib3                          2.0.7
-vega-datasets                    0.9.0
-wadllib                          1.3.6
-wasabi                           1.1.2
-wcwidth                          0.2.13
-weasel                           0.3.4
-webcolors                        1.13
-webencodings                     0.5.1
-websocket-client                 1.7.0
-Werkzeug                         3.0.1
-wheel                            0.43.0
-widgetsnbextension               3.6.6
-wordcloud                        1.9.3
-wrapt                            1.14.1
-xarray                           2023.7.0
-xarray-einstats                  0.7.0
-xgboost                          2.0.3
-xlrd                             2.0.1
-xyzservices                      2023.10.1
-yarl                             1.9.4
-yellowbrick                      1.5
-yfinance                         0.2.37
-zict                             3.0.0
-zipp                             3.17.0
